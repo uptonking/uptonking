@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+- I am a frontend developer aiming at building robust and efficient web applications.  
+- My tech stack
+  - react, redux
+  - electron
+  - spring-mvc
+- My open source projects
+  - back-garden-design[WIP]: react components library
+  - noter[WIP]: note-taking app for desktop
+  - datable[WIP]: handy data table web app
+  
 <!--
 **uptonking/uptonking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
