@@ -4,17 +4,17 @@
 
 - I am Jin Yao, a web developer who love making toys.  
 - My tech stack
-  - react
-  - prosemirror
+  - react ecosystem
+  - prosemirror editor
   - rest api / crud
   - dashboard / admin
 
 #### My projects
 
 <details>
-  <summary>Nostalgia Materials Repo</summary>
+  <summary>👉🏻️ Nostalgia Materials Repo</summary>
   
-  ##### knowledge base powered by markdown/mdx files
+  ##### [knowledge base powered by markdown/mdx files](https://github.com/datalking/nostalgia-studio-lab/tree/main/packages/materials-repo)
   - no vendor lock-in
   - familiar and intuitive interface like cloud drive or file manager
   - convenient reading and navigation experience
@@ -22,9 +22,9 @@
 </details>
 
 <details>
-  <summary>Nostalgia Dashboard</summary>
+  <summary>👉🏻️ Nostalgia Dashboard</summary>
   
-  ##### configurable dashboard built with react
+  ##### [configurable dashboard built with react](https://github.com/datalking/nostalgia-studio-lab/tree/main/packages/nostalgia-dashboard)
   - themeable, dark mode out of the box
   - configurable layout
   - configurable routes
