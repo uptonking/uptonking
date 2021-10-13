@@ -8,7 +8,6 @@
   - react ecosystem
   - prosemirror text editor
   - dashboard / admin
-
 - backend
   - rest api / crud
 
