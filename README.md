@@ -3,24 +3,25 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uptonking&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
 - I am a web developer who love making toys.
-#### My tech stack
-- frontend
-  - react ecosystem
-  - prosemirror text editor
-  - dashboard / admin
-- backend
-  - rest api / crud
 
-#### My projects
+#### My tech stack
+
+- web: react/redux/mobx
+- editor: slate/quill/prosemirror
+- backend: nodejs, strapi cms, lowcode
+
+#### Showcase
+
+- [My Profile Site](https://uptonking.github.io/yaoo-showcase-profile-v202404/)
 
 <details>
-  <summary>💡 Nostalgia Materials Repo</summary>
+  <summary>💡 Noseditor - notion-like editor</summary>
   
-  ##### [knowledge base powered by markdown/mdx files](https://github.com/datalking/nostalgia-studio-lab/tree/main/packages/materials-repo)
-  - no vendor lock-in with markdown text format
-  - familiar and intuitive interface like cloud drive or file manager
-  - convenient reading and navigation experience
-  - powerful rich text editor powered by prosemirror
+  ##### [notion-like block style editor](https://uptonking.github.io/yaoo-showcase-noseditor-slate/)
+  - customizable with your own plugins
+  - block-style editor with draggable elements
+  - collapsible headings and lists
+  - collaborative editing (wip)
 </details>
 
 <details>
